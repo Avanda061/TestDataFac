@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": " https://www.nikkoam.com.sg/files/documents/abf_singapore_bond_index_fund/",
+			"url": " https://www.nikkoam.com.sg/files/documents/abf_singapore_bond_index_fund/indicative_holdings.xlsx",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
