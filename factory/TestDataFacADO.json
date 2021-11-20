@@ -1,0 +1,9 @@
+{
+	"name": "TestDataFacADO",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "765a78f7-5ad8-463c-91a5-dff8a8809794",
+		"tenantId": "32172ff4-fec6-4694-8520-6993cb9dc03a"
+	}
+}
