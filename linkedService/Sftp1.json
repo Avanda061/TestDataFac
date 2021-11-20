@@ -1,0 +1,17 @@
+{
+	"name": "Sftp1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "test",
+		"annotations": [],
+		"type": "Sftp",
+		"typeProperties": {
+			"host": "sftp.bloomberg.com",
+			"port": 22,
+			"skipHostKeyValidation": true,
+			"authenticationType": "Basic",
+			"userName": "t",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEMwQUFGOTEyLUFENkEtNDg1NC1BRDEyLUE1MEZFMkUyMjkxRV9kZDFiZGE2YS00M2Y0LTQ0YTAtOGMzMC1lMTU2YTk2NjI0YTEiDQp9"
+		}
+	}
+}
