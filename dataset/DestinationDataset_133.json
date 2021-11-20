@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureFileStorageLocation",
-				"fileName": "downloadfile1"
+				"fileName": "downloadfile1.xlsx"
 			}
 		}
 	}
