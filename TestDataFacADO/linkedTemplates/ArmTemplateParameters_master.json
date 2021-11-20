@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "TestDataFacADO"
+		},
+		"AzureFileStorage1_connectionString": {
+			"value": ""
+		},
+		"Sftp1_password": {
+			"value": ""
+		},
+		"Nikko_SBIF_properties_typeProperties_url": {
+			"value": " https://www.nikkoam.com.sg/files/documents/abf_singapore_bond_index_fund/"
+		},
+		"Sftp1_properties_typeProperties_host": {
+			"value": "sftp.bloomberg.com"
+		},
+		"Sftp1_properties_typeProperties_userName": {
+			"value": "t"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
